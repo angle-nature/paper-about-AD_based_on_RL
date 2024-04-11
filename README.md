@@ -7,7 +7,7 @@ This repository will share recent paper about AD&amp;RL
   - Efficient-enhanced Reinforcement Learning for Autonomous Driving in Urban Traffic Scenarios[[ITSC]](https://ieeexplore.ieee.org/abstract/document/10422557)
   - Efficient Lane-changing Behavior Planning via Reinforcement Learning with Imitation Learning Initialization[[IV]](https://ieeexplore.ieee.org/abstract/document/10186577)
   - Self-Learned Autonomous Driving at Unsignalized Intersections: A Hierarchical Reinforced Learning Approach for Feasible Decision-Making[[TITS]](https://ieeexplore.ieee.org/document/10159573)
-  - Safe Navigation: Training Autonomous Vehicles using Deep Reinforcement Learning in CARLA[[arXiv]](https://arxiv.org/abs/2311.10735)
+  - Safe Navigation: Training Autonomous Vehicles using Deep Reinforcement Learning in CARLA[[arXiv]](https://arxiv.org/abs/2311.10735)[[code]](https://github.com/Tejas-Deo/Safe-Navigation-Training-Autonomous-Vehicles-using-Deep-Reinforcement-Learning-in-CARLA)
   - Recent Advancements in End-to-End Autonomous Driving Using Deep Learning: A Survey[[TIV]](https://ieeexplore.ieee.org/abstract/document/10258330)[[code]](https://github.com/Pranav-chib/End-to-End-Autonomous-Driving)
   - FEN-DQN: An End-to-End Autonomous Driving Framework Based on Reinforcement Learning with Explicit Affordance[[CVCI]](https://ieeexplore.ieee.org/document/10397338)
   - Complex Network Cognition-based Federated Reinforcement Learning for End-to-end Urban Autonomous Driving[[TTE]](https://ieeexplore.ieee.org/document/10316275)
