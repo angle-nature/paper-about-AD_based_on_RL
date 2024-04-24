@@ -1,4 +1,7 @@
 This repository will share recent paper about AD&amp;RL
+# 2024
+  - Augmenting Reinforcement Learning with Transformer-based Scene Representation Learning for Decision-making of Autonomous Driving[[IEEE Transactions on Intelligent Vehicles]](https://ieeexplore.ieee.org/abstract/document/10458341)[[Code]](https://github.com/georgeliu233/Scene-Rep-Transformer)
+  - An Integrated Framework of Lateral and Longitudinal Behavior Decision-Making for Autonomous Driving Using Reinforcement Learning[[IEEE Transactions on Vehicular Technology]](https://ieeexplore.ieee.org/abstract/document/10472707)
 # 2023
   - Control of Self-Driving Cars using Reinforcement Learning[[CONECCT]](https://ieeexplore.ieee.org/abstract/document/10234763)
   - End-to-end Autonomous Driving:Challenges and Frontiers[[arXiv]](https://arxiv.org/abs/2306.16927)[[code]](https://github.com/OpenDriveLab/End-to-end-Autonomous-Driving)
