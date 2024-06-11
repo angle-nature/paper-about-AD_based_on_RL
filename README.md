@@ -4,6 +4,7 @@ This repository will share recent papers about AD&amp;RL
   - An Integrated Framework of Lateral and Longitudinal Behavior Decision-Making for Autonomous Driving Using Reinforcement Learning[[IEEE Transactions on Vehicular Technology]](https://ieeexplore.ieee.org/abstract/document/10472707)
   - RLfOLD Reinforcement Learning from Online Demonstrations in Urban Autonomous Driving[[AAAI]](https://ojs.aaai.org/index.php/AAAI/article/view/29049)[[Code]](https://github.com/DanielCoelho112/rlfold)
   - Decision-Making for Autonomous Vehicles in Random Task Scenarios at Unsignalized Intersection Using Deep Reinforcement Learning[[IEEE Transactions on Vehicular Technology]](https://ieeexplore.ieee.org/document/10417752)
+  - Human as AI Mentor: Enhanced Human-in-the-loop Reinforcement Learning for Safe and Efficient Autonomous Driving[[arXiv]](https://arxiv.org/abs/2401.03160)[[code]](https://github.com/zilin-huang/HAIM-DRL)
 # 2023
   - Control of Self-Driving Cars using Reinforcement Learning[[CONECCT]](https://ieeexplore.ieee.org/abstract/document/10234763)
   - End-to-end Autonomous Driving:Challenges and Frontiers[[arXiv]](https://arxiv.org/abs/2306.16927)[[code]](https://github.com/OpenDriveLab/End-to-end-Autonomous-Driving)
@@ -42,3 +43,5 @@ This repository will share recent papers about AD&amp;RL
   - Deep reinforcement learning for autonomous driving: A survey[[TITS]](https://ieeexplore.ieee.org/document/9351818)
   - Carl-Lead: Lidar-based End-to-End Autonomous Driving with Contrastive Deep Reinforcement Learning[[arXiv]](https://arxiv.org/abs/2109.08473)
   - Learning Urban Driving Policies using Deep Reinforcement Learning[[ITSC]](https://ieeexplore.ieee.org/abstract/document/9564412)
+# CARLA Leaderboard
+ - [papers and codes](https://paperswithcode.com/sota/autonomous-driving-on-carla-leaderboard)
