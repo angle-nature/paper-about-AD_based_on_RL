@@ -5,6 +5,7 @@ This repository will share recent papers about AD&amp;RL
   - RLfOLD Reinforcement Learning from Online Demonstrations in Urban Autonomous Driving[[AAAI]](https://ojs.aaai.org/index.php/AAAI/article/view/29049)[[Code]](https://github.com/DanielCoelho112/rlfold)
   - Decision-Making for Autonomous Vehicles in Random Task Scenarios at Unsignalized Intersection Using Deep Reinforcement Learning[[IEEE Transactions on Vehicular Technology]](https://ieeexplore.ieee.org/document/10417752)
   - Human as AI Mentor: Enhanced Human-in-the-loop Reinforcement Learning for Safe and Efficient Autonomous Driving[[arXiv]](https://arxiv.org/abs/2401.03160)[[code]](https://github.com/zilin-huang/HAIM-DRL)
+  - Pre-trained Transformer-Enabled Strategies with Human-Guided Fine-Tuning for End-to-end Navigation of Autonomous Vehicles[[arXiv]](https://arxiv.org/abs/2402.12666)
 # 2023
   - Control of Self-Driving Cars using Reinforcement Learning[[CONECCT]](https://ieeexplore.ieee.org/abstract/document/10234763)
   - End-to-end Autonomous Driving:Challenges and Frontiers[[arXiv]](https://arxiv.org/abs/2306.16927)[[code]](https://github.com/OpenDriveLab/End-to-end-Autonomous-Driving)
