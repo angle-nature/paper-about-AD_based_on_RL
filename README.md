@@ -21,6 +21,9 @@ This repository will share recent papers about AD&amp;RL
   - Guided Hierarchical Reinforcement Learning for Safe Urban Driving[[ICTAI]](https://ieeexplore.ieee.org/document/10356414)
   - Bird's Eye View Map for End-to-end Autonomous Driving Using Reinforcement Learning[[IST]](https://ieeexplore.ieee.org/document/10355730)
   - Multi-Input Autonomous Driving Based on Deep Reinforcement Learning With Double Bias Experience Replay[[IEEE Sensors Council]](https://ieeexplore.ieee.org/abstract/document/10024943)
+  - Deep Reinforcement Learning for Autonomous Vehicle Intersection Navigation[[3ICT]](https://ieeexplore.ieee.org/document/10391453)
+  - Self-Learned Autonomous Driving at Unsignalized Intersections: A Hierarchical Reinforced Learning Approach for Feasible Decision-Making[[TITS]](https://ieeexplore.ieee.org/abstract/document/10159573)
+
 # 2022
   - Improved Deep Reinforcement Learning with Expert Demonstrations for Urban Autonomous Driving[[IV]](https://ieeexplore.ieee.org/document/9827073)
   - Learning automated driving in complex intersection scenarios based on camera sensors: A deep reinforcement learning approach[[Sensor]](https://ieeexplore.ieee.org/abstract/document/9694607)
