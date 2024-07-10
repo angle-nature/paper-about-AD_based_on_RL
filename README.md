@@ -37,6 +37,7 @@ This repository will share recent papers about AD&amp;RL
   - Efficient learning of safe driving policy via human-ai copilot optimization[[arXiv]](https://arxiv.org/abs/2202.10341)[[code]](https://github.com/decisionforce/HACO)
   - Exploiting Multi-Modal Fusion for Urban Autonomous Driving Using Latent Deep Reinforcement Learning[[Transactions on Vehicular Technology]](https://ieeexplore.ieee.org/abstract/document/9934803)
   - Multi-agent reinforcement learning for cooperative lane changing of connected and autonomous vehicles in mixed traffic[[Autonomous Intelligent Systems]](https://link.springer.com/article/10.1007/s43684-022-00023-5)
+  - Policy-Based Reinforcement Learning for Training Autonomous Driving Agents in Urban Areas With Affordance Learning[[TITS]](https://ieeexplore.ieee.org/abstract/document/9599578)
 # 2021
   - End-to-End Urban Driving by Imitating a Reinforcement Learning Coach[[ICCV]](https://openaccess.thecvf.com/content/ICCV2021/html/Zhang_End-to-End_Urban_Driving_by_Imitating_a_Reinforcement_Learning_Coach_ICCV_2021_paper.html)[[code]](https://github.com/zhejz/carla-roach)
   - Integration of Motion Prediction with End-to-end Latent RL for Self-Driving Vehicles[[IWCMC]](https://ieeexplore.ieee.org/document/9498581)
@@ -47,5 +48,6 @@ This repository will share recent papers about AD&amp;RL
   - Deep reinforcement learning for autonomous driving: A survey[[TITS]](https://ieeexplore.ieee.org/document/9351818)
   - Carl-Lead: Lidar-based End-to-End Autonomous Driving with Contrastive Deep Reinforcement Learning[[arXiv]](https://arxiv.org/abs/2109.08473)
   - Learning Urban Driving Policies using Deep Reinforcement Learning[[ITSC]](https://ieeexplore.ieee.org/abstract/document/9564412)
+  - Deductive Reinforcement Learning for Visual Autonomous Urban Driving Navigation[[TNNLS]](https://ieeexplore.ieee.org/abstract/document/9537641)
 # CARLA Leaderboard
  - [papers and codes](https://paperswithcode.com/sota/autonomous-driving-on-carla-leaderboard)
